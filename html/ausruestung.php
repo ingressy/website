@@ -92,7 +92,7 @@
         <h6>Home Krams:</h6>
         <p>
           Raspberry Pi 4B 8GB mit <a href="https://www.home-assistant.io/">Home Assistant</a><br>
-          Raspberry Pi 5B 8GB für Docker Krams
+          Raspberry Pi 5B 8GB für Docker Krams<br>
           Selbstbau Nas mit 2x6TB HDD in Raid 0
         </p>
         <h5>Software die ich nutze:</h5>
