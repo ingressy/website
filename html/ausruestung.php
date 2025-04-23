@@ -81,7 +81,7 @@
           CPU: Ryzen 5 3600<br>
           GPU: 1060 mit 3GB OC<br>
           RAM: 16GB<br>
-          Speicher: 256GB NVME + 128GB SSD + NAS<br>
+          Speicher: 256GB NVME + 128GB, 500GB SSD + NAS<br>
         </p>
         <h5>IT-Infrastruktur:</h5>
         <p>
@@ -93,6 +93,7 @@
         <p>
           Raspberry Pi 4B 8GB mit <a href="https://www.home-assistant.io/">Home Assistant</a><br>
           Raspberry Pi 5B 8GB für Docker Krams
+          Selbstbau Nas mit 2x6TB HDD in Raid 0
         </p>
         <h5>Software die ich nutze:</h5>
         <p>Garmin Boating App | nicht als Hauptnavigationsmittel aber zum Aufzeichen</p>
